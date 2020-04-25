@@ -129,7 +129,7 @@ measurements = []
 sample_size = int(os.environ.get('SAMPLE_SIZE', "20"))
 
 for i in range(0, sample_size):
-    print("\tBuild " + str(i), flush=True)
+    print("\tBuild " + str(i + 1) + "/" + str(sample_size), flush=True)
     measurements.append(record())
 
 result = {
