@@ -1,0 +1,675 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ohm",
+        "given": "Jens-Rainer"
+      },
+      {
+        "family": "Sullivan",
+        "given": "Gary J"
+      },
+      {
+        "family": "Schwarz",
+        "given": "Heiko"
+      },
+      {
+        "family": "Tan",
+        "given": "Thiow Keng"
+      },
+      {
+        "family": "Wiegand",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "IEEE Transactions on circuits and systems for video technology",
+    "id": "bitrate-content-association",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1669-1684",
+    "publisher": "IEEE",
+    "title": "Comparison of the coding efficiency of video coding standards—including high efficiency video coding (hevc)",
+    "type": "article-journal",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilhelmsen",
+        "given": "Martin Alexander"
+      },
+      {
+        "family": "Stensland",
+        "given": "Håkon Kvale"
+      },
+      {
+        "family": "Gaddam",
+        "given": "Vamsidhar Reddy"
+      },
+      {
+        "family": "Halvorsen",
+        "given": "Pål"
+      },
+      {
+        "family": "Griwodz",
+        "given": "Carsten"
+      }
+    ],
+    "id": "nvenc",
+    "publisher": "Citeseer",
+    "title": "<span class=\"nocase\">Performance and Application of the NVIDIA NVENC H. 264 Encoder</span>",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://ffmpeg.org/ffmpeg-formats.html#segment_002c-stream_005fsegment_002c-ssegment",
+    "author": [
+      {
+        "family": "Sabatini",
+        "given": "Stefano"
+      }
+    ],
+    "id": "ffmpeg-segments",
+    "title": "FFmpeg formats documentation",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://developer.apple.com/documentation/http_live_streaming/understanding_the_http_live_streaming_architecture",
+    "author": [
+      {
+        "family": "Apple"
+      }
+    ],
+    "id": "apple-hls-support",
+    "title": "Understanding the http live streaming architecture",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "ISBN": "978-0789725745",
+    "author": [
+      {
+        "family": "Arunkundram",
+        "given": "Rajiv Shankar"
+      },
+      {
+        "family": "Sachdev",
+        "given": "Pooja"
+      }
+    ],
+    "id": "SAN",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          11
+        ]
+      ]
+    },
+    "publisher": "Que",
+    "title": "Using storage area networks (special edition)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information"
+      }
+    ],
+    "genre": "Standard",
+    "id": "cmaf",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "publisher": "International Organization for Standardization",
+    "publisher-place": "Geneva, CH",
+    "title": "<span class=\"nocase\">Information technology — Multimedia application format (MPEG-A) — Part 19: Common media application format (CMAF) for segmented media</span>",
+    "type": "report",
+    "volume": "2"
+  },
+  {
+    "DOI": "10.1117/12.2238495",
+    "URL": "https://doi.org/10.1117/12.2238495",
+    "abstract": "Over the last years, we have seen exciting improvements in video compression technology, due to the introduction of HEVC and royalty-free coding specifications such as VP9. The potential compression gains of HEVC over H.264/AVC have been demonstrated in different studies, and are usually based on the HM reference software. For VP9, substantial gains over H.264/AVC have been reported in some publications, whereas others reported less optimistic results. Differences in configurations between these publications make it more difficult to assess the true potential of VP9. Practical open-source encoder implementations such as x265 and libvpx (VP9) have matured, and are now showing high compression gains over x264. In this paper, we demonstrate the potential of these encoder imple- mentations, with settings optimized for non-real-time random access, as used in a video-on-demand encoding pipeline. We report results from a large-scale video codec comparison test, which includes x264, x265 and libvpx. A test set consisting of a variety of titles with varying spatio-temporal characteristics from our catalog is used, resulting in tens of millions of encoded frames, hence larger than test sets previously used in the literature. Re- sults are reported in terms of PSNR, SSIM, MS-SSIM, VIF and the recently introduced VMAF quality metric. BD-rate calculations show that using x265 and libvpx vs. x264 can lead to significant bitrate savings for the same quality. x265 outperforms libvpx in most cases, but the performance gap narrows (or even reverses) at the higher resolutions.",
+    "author": [
+      {
+        "family": "Cock",
+        "given": "Jan De"
+      },
+      {
+        "family": "Mavlankar",
+        "given": "Aditya"
+      },
+      {
+        "family": "Moorthy",
+        "given": "Anush"
+      },
+      {
+        "family": "Aaron",
+        "given": "Anne"
+      }
+    ],
+    "container-title": "Applications of digital image processing xxxix",
+    "editor": [
+      {
+        "family": "Tescher",
+        "given": "Andrew G."
+      }
+    ],
+    "id": "netflix-video-quality-comparison",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "VP9, HEVC, H.264/AVC, video codecs, codec comparison, video-on-demand, video quality metrics",
+    "page": "363 - 379",
+    "publisher": "International Society for Optics; Photonics; SPIE",
+    "title": "<span class=\"nocase\">A large-scale video codec comparison of x264, x265 and libvpx for practical VOD applications</span>",
+    "type": "paper-conference",
+    "volume": "9971"
+  },
+  {
+    "URL": "https://people.xiph.org/~negge/MHV2019.pdf",
+    "author": [
+      {
+        "family": "Egge",
+        "given": "Nathan"
+      },
+      {
+        "family": "Vibber",
+        "given": "Brion"
+      }
+    ],
+    "id": "mhv2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          7
+        ]
+      ]
+    },
+    "publisher": "Mile High Video",
+    "title": "AV1: One year later",
+    "title-short": "AV1",
+    "type": "report"
+  },
+  {
+    "URL": "https://go.bitmovin.com/hubfs/Bitmovin-Video-Developer-Report-2018.pdf",
+    "author": [
+      {
+        "family": "Bitmovin"
+      }
+    ],
+    "id": "bitmovin-dev-report",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Video developer report",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "literal": "ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information"
+      }
+    ],
+    "genre": "Standard",
+    "id": "mpeg-dash",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "publisher": "International Organization for Standardization",
+    "publisher-place": "Geneva, CH",
+    "title": "<span class=\"nocase\">Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats</span>",
+    "type": "report",
+    "volume": "4"
+  },
+  {
+    "DOI": "10.17487/RFC8216",
+    "URL": "https://rfc-editor.org/rfc/rfc8216.txt",
+    "abstract": "This document describes a protocol for transferring unbounded streams of multimedia data. It specifies the data format of the files and the actions to be taken by the server (sender) and the clients (receivers) of the streams. It describes version 7 of this protocol.",
+    "author": [
+      {
+        "family": "Pantos",
+        "given": "Roger"
+      },
+      {
+        "family": "May",
+        "given": "William"
+      }
+    ],
+    "collection-title": "Request for comments",
+    "id": "rfc8216",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "number": "8216",
+    "number-of-pages": "60",
+    "publisher": "RFC 8216; RFC Editor",
+    "title": "HTTP Live Streaming",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://engineering.fb.com/video-engineering/av1-beats-x264-and-libvpx-vp9-in-practical-use-case/",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Yu"
+      }
+    ],
+    "id": "av1-promises",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "title": "AV1 beats x264 and libvpx-vp9 in practical use case",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Hatanaka",
+        "given": "T."
+      },
+      {
+        "family": "Ishida",
+        "given": "K."
+      },
+      {
+        "family": "Yasufuku",
+        "given": "T."
+      },
+      {
+        "family": "Miyamoto",
+        "given": "S."
+      },
+      {
+        "family": "Nakai",
+        "given": "H."
+      },
+      {
+        "family": "Takamiya",
+        "given": "M."
+      },
+      {
+        "family": "Sakurai",
+        "given": "T."
+      },
+      {
+        "family": "Takeuchi",
+        "given": "K."
+      }
+    ],
+    "container-title": "2010 symposium on vlsi circuits",
+    "id": "ssd-speed",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "233-234",
+    "title": "A 60% higher write speed, 4.2gbps, 24-channel 3D-solid state drive (ssd) with nand flash channel number detector and intelligent program-voltage booster",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://www.apple.com/final-cut-pro/docs/Apple_ProRes.pdf",
+    "author": [
+      {
+        "family": "Apple"
+      }
+    ],
+    "id": "prores",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1
+        ]
+      ]
+    },
+    "title": "Apple ProRes Whitepaper",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://web.archive.org/web/20141006092456/http://diracvideo.org/download/specification/dirac-spec-latest.pdf",
+    "author": [
+      {
+        "family": "BBC"
+      }
+    ],
+    "id": "vc2",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "title": "Dirac specification dirac specification version 2.2.3",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://netflixtechblog.com/optimized-shot-based-encodes-now-streaming-4b9464204830",
+    "author": [
+      {
+        "family": "Manohara",
+        "given": "Megha"
+      },
+      {
+        "family": "Moorthy",
+        "given": "Anush"
+      },
+      {
+        "family": "Cock",
+        "given": "Jan De"
+      },
+      {
+        "family": "Katsavounidis",
+        "given": "Ioannis"
+      },
+      {
+        "family": "Aaron",
+        "given": "Anne"
+      }
+    ],
+    "id": "vp9-at-netflix",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "title": "Optimized shot-based encodes: Now streaming!",
+    "title-short": "Optimized shot-based encodes",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://youtube-eng.googleblog.com/2015/04/vp9-faster-better-buffer-free-youtube.html",
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "Steven"
+      }
+    ],
+    "id": "vp9-at-youtube",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "title": "VP9: Faster, better, buffer-free youtube videos",
+    "title-short": "VP9",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://storage.googleapis.com/downloads.webmproject.org/docs/vp9/vp9-bitstream-specification-v0.6-20160331-draft.pdf",
+    "author": [
+      {
+        "family": "Grange",
+        "given": "Adrian"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Rivaz",
+        "given": "Peter"
+      },
+      {
+        "family": "Hunt",
+        "given": "Jonathan"
+      }
+    ],
+    "id": "vp9",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "VP9 bitstream & decoding process specification version 0.6",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://caniuse.com/#search=video%20format",
+    "id": "browser-codecs",
+    "title": "Can i use... Support tables for html5, css3, etc",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://www.docker.com/blog/introducing-linuxkit-container-os-toolkit/",
+    "id": "linuxkit",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Announcing LinuxKit: A Toolkit for building Secure, Lean and Portable Linux Subsystems</span>",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://w3c.github.io/webdriver",
+    "id": "webdriver-standard",
+    "title": "WebDriver",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://pptr.dev/#?product=Puppeteer&version=v3.0.1",
+    "id": "pupeteer",
+    "title": "Pupeteer",
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "URL": "https://gs.statcounter.com/screen-resolution-stats/desktop/germany",
+    "id": "screen-resolution-germany",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          15
+        ]
+      ]
+    },
+    "title": "Desktop screen resolution stats germany",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://gs.statcounter.com/browser-market-share",
+    "id": "browser-marketshare",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          15
+        ]
+      ]
+    },
+    "title": "Browser market share worldwide",
+    "type": "webpage"
+  }
+]
