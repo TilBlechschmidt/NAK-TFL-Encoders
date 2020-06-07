@@ -13,6 +13,8 @@
     lang: en
     lof: true
 
+    fontsize: 12pt
+
     figPrefix:
       - "figure"
       - "figures"
@@ -36,6 +38,6 @@ Given that question, this work will focus on two aspects of the delivery of scre
 
 Like many companies, PPI AG has multiple projects with web-based frontends that require testing. For most projects, this process has already been automated but either parallelization or visual feedback is still lacking. This analysis can aid the process of cost-effectively parallelizing the current testing infrastructure while retaining the visual feedback test operators are used to.
 
-To answer the initial question this document will be split into three parts. The first part will describe the empirical method that will be used to compare different codecs while the second uses the described methods to measure and analyze the data. The third part compares different technologies and streaming formats that can be used to deliver the screen recording by taking a look at their format specifications.
+To answer the initial question this document will be split into three parts. Firstly, the empirical method that will be used to compare different codecs will be outlined. The second part uses the described methods to measure and analyze the data. Finally, different technologies and streaming formats that can be used to deliver the screen recording will be compared by taking a look at their format specifications.
 
 \pagebreak
