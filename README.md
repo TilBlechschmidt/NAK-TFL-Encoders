@@ -1,4 +1,6 @@
 # Scientific paper template
 
-This is an example README.md for your next scientific paper! The templated evolved out of the need to write TFLs at the Nordakademie but not wanting to fight with LaTeX all day. So enjoy. Documentation can be found [here](https://texnak.github.io/Science-Paper-Template-Documentation/).
+[![DOI](https://zenodo.org/badge/258549840.svg)](https://zenodo.org/badge/latestdoi/258549840)
+
+Scientific paper that evaluates multiple video encoders for use with screen recording of software tests.
 
